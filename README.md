@@ -10,7 +10,7 @@ O objetivo deste desafio é entender seus conhecimentos, estilo de programação
 Criar um aplicativo para consultar a [coinapi.io](https://docs.coinapi.io/?shell#list-all-exchanges-get) e trazer as exchanges em forma de lista.
 
 ### Credencial da API
-Será necessária uma [API_KEY](https://www.coinapi.io/get-free-api-key?product_id=market-data-api) para utilizar a API.
+Será necessária uma [API_KEY](https://console.coinapi.io/?link=/apikeys/create) para utilizar a API.
 
 
 ### Features
