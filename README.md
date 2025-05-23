@@ -46,7 +46,7 @@ Sinta-se à vontade para utilizar a arquitetura que melhor atender o projeto pro
 A partir do envio do desafio ao candidato por e-mail, o prazo de retorno é de 7 dias corridos.
 
 ### Processo de Submissão
-O candidato deverá enviar a solução por e-mail contendo todas instruções necessárias para executá-lo, em formato .zip.
+O candidato deverá realizar o desafio em uma plataforma pública (de fácil acesso a todos) e enviar a solução por e-mail contendo um link para o repositório.
 
 ### IMPORTANTE
 Esse código não será usado em nenhuma hipótese para qualquer fim a não ser o de avaliação de conhecimentos técnicos.
